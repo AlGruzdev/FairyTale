@@ -1,1 +1,2 @@
 FairyTale
+print ("Жили-были...")
